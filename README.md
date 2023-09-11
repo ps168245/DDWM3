@@ -9,4 +9,4 @@
 #Start het project lokaal op
 <p>Open een terminal voer in "php artisan serve" open vervolgens een nieuwe terminal.</p>
 <p>Voer hier in uit "npm run dev".</p>
-<p>Nu kunt uw op het aangegeven IP address van php artisan serve terminal het project benaderen.</p>
+<p>Nu kunt uw op het aangegeven IP address van php artisan serve terminal het project benaderen.</p>"# DDWM3" 
